@@ -1,5 +1,2 @@
-testaaaa
-bb
-c
-c
-cccc
+this is test the git
+now reset
